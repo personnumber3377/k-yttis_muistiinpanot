@@ -1,0 +1,23 @@
+- Kannattaa katsoa aikaisempia mahdollisia toteutuksia ja mitä niistä puuttuu (Kaisan välinevuokrausesimerkki)
+- Artun esimerkki Lintubongaus. (sovellus tai älykiikarit) -> päädyttiin sovellukseen...
+- Katsoo ongelmia tarkemmin (katsoo lintubongauksen ympärille vähän) fyysinen ratkaisu ehkä parempi koska yksi harvoista kursseista missä pääsee tekemään jotain fyysistä.
+- Jakakaa vastuualeita ihmisten tottumuksien ja taitojen mukaan.
+- Viikon päästä tutustumaan design factorylle.
+
+- Itsellä (Eliaksella) on kokemusta koodaamisesta ja elektroniikan kolvaamisesta hiukan.
+
+- Esimerkkiongelmia:
+* Kadonneet avaimet
+* Ruokahävikki
+* jne
+* jne
+
+- Älkää valitko ongelmaa mitä voi ratkaista puhelinäpillä.
+
+- Kannattaa myös kysyä, että kokeeko käyttäjä ongelmaa ongelmaksi? (Esimerkiksi oppilas ei koe, että generatiivinen tekoälyn käyttö olisi ongelma vaikka se haittaisi hänen oppimistaan.)
+
+
+- Valikaa kolme jatko-ongelmaa
+- Tehkää lyhyt raportti mycoursesiin sitten.
+
+
